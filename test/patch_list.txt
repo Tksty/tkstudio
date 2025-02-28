@@ -1,4 +1,4 @@
-1^stickrun.swf.zip.dfg^5161011^8ca8fe25
+1^stickrun.swf.zip.dfg^5161238^c77753a8
 2^back/test.swf.zip.dfg^992^a2f7efa0
 3^glasses/test.swf.zip.dfg^180^a1945fc5
 4^hand1/test.swf.zip.dfg^373^e394683e
